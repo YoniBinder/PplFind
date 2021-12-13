@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/PplFind/static/js/main.f635cebc.chunk.js",
+    "main.js.map": "/PplFind/static/js/main.f635cebc.chunk.js.map",
+    "runtime-main.js": "/PplFind/static/js/runtime-main.ba6ef04a.js",
+    "runtime-main.js.map": "/PplFind/static/js/runtime-main.ba6ef04a.js.map",
+    "static/js/2.5bebcb1e.chunk.js": "/PplFind/static/js/2.5bebcb1e.chunk.js",
+    "static/js/2.5bebcb1e.chunk.js.map": "/PplFind/static/js/2.5bebcb1e.chunk.js.map",
+    "index.html": "/PplFind/index.html",
+    "static/js/2.5bebcb1e.chunk.js.LICENSE.txt": "/PplFind/static/js/2.5bebcb1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba6ef04a.js",
+    "static/js/2.5bebcb1e.chunk.js",
+    "static/js/main.f635cebc.chunk.js"
+  ]
+}
